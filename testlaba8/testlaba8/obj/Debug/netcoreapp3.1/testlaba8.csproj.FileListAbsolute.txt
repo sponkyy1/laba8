@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\bin\Debug\netcoreapp3.1\testlaba8.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\bin\Debug\netcoreapp3.1\testlaba8.deps.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\bin\Debug\netcoreapp3.1\testlaba8.runtimeconfig.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\bin\Debug\netcoreapp3.1\testlaba8.runtimeconfig.dev.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\bin\Debug\netcoreapp3.1\testlaba8.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\bin\Debug\netcoreapp3.1\testlaba8.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.AssemblyInfoInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.AssemblyInfo.cs
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\testlaba8\testlaba8\obj\Debug\netcoreapp3.1\testlaba8.genruntimeconfig.cache

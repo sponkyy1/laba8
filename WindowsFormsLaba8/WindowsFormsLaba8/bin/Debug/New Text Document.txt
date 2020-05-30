@@ -1,0 +1,10 @@
+122222    Puchka   Zhyga     10122  2002222
+333123    Aut      RollsRoyce999999 2002
+123111    Every    Mercedes  10124  2003
+123456    Syla     Porsche   1023   201
+876543    Robotygy Lanus     1333   200023
+123423    AutoD    Range R   101312 20231
+999999    Service  Opel      103232 202
+123233    TestDriv Škoda     100111 20034
+555454    Robocop  Bmw       100222 20045
+122222    Raketa   Audii     10122  2002222

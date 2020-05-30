@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\bin\Debug\WindowsFormsLaba8.exe.config
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\bin\Debug\WindowsFormsLaba8.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\bin\Debug\WindowsFormsLaba8.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.StorageAuto.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.Properties.Resources.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.csproj.GenerateResource.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.Add.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.Edit.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\laba8\WindowsFormsLaba8\WindowsFormsLaba8\obj\Debug\WindowsFormsLaba8.Input.resources
